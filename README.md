@@ -6,3 +6,5 @@ visual studio 2015 64位、arcgis 10.5
 
 2、该工程有一个说明文章
 http://www.cnblogs.com/gregcn/p/8865875.html
+
+说明：AO开发的程序经与ESRI技术支持交流，其10.1之后的版本，无法在tomcat等容器中运行
